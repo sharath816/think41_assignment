@@ -48,5 +48,5 @@ uvicorn main:app --reload
 
 ##  Author
 
-Sharath M T  
+Sharath M Talawar  
 GitHub: [sharath816](https://github.com/sharath816)
